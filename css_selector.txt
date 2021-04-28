@@ -1,0 +1,39 @@
+LIVELO
+
+######################################################
+
+Botão do carrinho element :SeletorCarrinho, '.icon-shopping-cart'
+
+Botão de login element :AcessarConta, '.span-loginInvitationText'
+
+Botão de cadastro element :CriarConta, '.span-createAccountText'
+
+
+
+################################################################################################################################################################################################################################################################################################################################################
+DIVINO
+
+Array de botões de categorias => element :BotoesCategoria, '.main_menu_ul'
+
+Array de produtos (box do produto)
+        element :array-produtos, '.js_box_prod'
+
+    Ícone de lupa da busca
+        element :lupa, '.icon-lupa'
+
+    Botão 'ir para o carrinho'
+        element :carrinho, '.icon-cx_vinho'
+
+
+################################################################################################################################################################################################################################################################################################################################################
+
+
+https://orgames.com.br/
+
+https://orgames.com.br/
+
+Botão de fechar da modal de promoção  = > element :Fechar, '.material-icons'
+
+Input de busca => element:Buscar, '.text-input js-search-input'
+
+Botão 'Quem Somos => element :QuemSomos, 'a[href*="quem-somos"]
